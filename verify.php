@@ -1,7 +1,7 @@
 <?php
 
-$api_key = "putypurapihere";
-$email = "putyouremailhere";
+$api_key = "PRK_live_8khKAXzLoxYS1zyCuvT6BZWi5wQ8Bfrx;
+$email = "kelichege11@gmail.com";
 $transaction_request_id = $_GET['id'] ?? null;
 
 if (!$transaction_request_id) {
